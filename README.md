@@ -1,2 +1,2 @@
 # Landing
-landing page creation
+landing project
